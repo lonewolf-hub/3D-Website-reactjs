@@ -9,17 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emailjs/browser": "^3.11.0",
-    "@react-three/drei": "^9.71.0",
-    "@react-three/fiber": "^8.13.0",
-    "autoprefixer": "^10.4.14",
-    "framer-motion": "^10.12.16",
-    "maath": "^0.6.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-router-dom": "^6.11.2",
-    "react-tilt": "^1.0.2",
-    "react-vertical-timeline-component": "^3.6.0"
+   "@emailjs/browser": "^3.12.0"
+"@react-three/drei": "^9.79.3"
+"@react-three/fiber": "^8.15.0"
+"autoprefixer":"^10.4.17"
+"framer-motion": "^10.14.13"
+"maath":" ^0.6.1"
+"react": "^18.2.1"
+"react-dom": "^18.2.1"
+"react-router-dom": "^6.13.0"
+"react-tilt": "^1.0.3"
+"react-vertical-timeline-component": "^3.6.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.37",
